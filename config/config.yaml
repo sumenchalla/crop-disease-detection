@@ -1,0 +1,7 @@
+root_folder : artifacts
+
+dataingestion_config:
+  root_dir: artifacts/data_ingestion
+  sourcec_url : "" #input the url from where you want to download your dataset
+  download_path : artifacts/data_ingestion/data.zip
+  unzip_path : artifacts/data_ingestion
